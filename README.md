@@ -12,3 +12,4 @@ This is a decision log, not content.
 # Index
 
 [chunk1](https://github.com/crionuke/chunks/blob/main/chunk1) - docker-otel-lgtm with custom dashboards 
+[chunk2](https://github.com/crionuke/chunks/blob/main/chunk2) - voice messages support in camel-telegram 
