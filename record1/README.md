@@ -9,3 +9,5 @@ provisioning configuration, but it took about an hour.
 
 A working compose.yaml is available in the repository:
 https://github.com/crionuke/chunks/blob/main/record1
+
+#records #grafana
