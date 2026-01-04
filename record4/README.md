@@ -8,7 +8,7 @@ expected.
 
 Issues I ran into:
 
-- Claude CLI does not indicate that --verbose is mandatory when using --output-format stream-json
+- Claude AI does not indicate that --verbose is mandatory when using --output-format stream-json
 - jq requires --unbuffered, otherwise streaming output is buffered and nothing is shown in real time
 
 ```
