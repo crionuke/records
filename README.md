@@ -1,10 +1,10 @@
 # Record #0
 
-Things I've already paid for, written down before I forget.
+List of things already paid for. Written down to avoid forgetting.
 
-One per record. No hindsight. No polish.
+One item per record. No looking back. No polishing.
 
-Some have code. Some just mark where I hit a wall.
+Some records contain code. Some only mark a blocker.
 
 This is a log, not content.
 
@@ -13,6 +13,7 @@ This is a log, not content.
 # Index
 
 - [record1](https://github.com/crionuke/chunks/blob/main/record1) - docker-otel-lgtm with custom dashboards
-- [record2](https://github.com/crionuke/chunks/blob/main/record2) - voice messages support in camel-telegram 
-- [record3](https://github.com/crionuke/chunks/blob/main/record3) - multi agents on github actions 
-- [record4](https://github.com/crionuke/chunks/blob/main/record4) - claude streaming in a container 
+- [record2](https://github.com/crionuke/chunks/blob/main/record2) - voice messages support in camel-telegram
+- [record3](https://github.com/crionuke/chunks/blob/main/record3) - multi agents on github actions
+- [record4](https://github.com/crionuke/chunks/blob/main/record4) - claude streaming in a container
+- [record5](https://github.com/crionuke/chunks/blob/main/record5) - skills and subagents in claudecode 
