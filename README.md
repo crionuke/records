@@ -17,3 +17,4 @@ This is a log, not content.
 - [record3](https://github.com/crionuke/chunks/blob/main/record3) - multi agents on github actions
 - [record4](https://github.com/crionuke/chunks/blob/main/record4) - claude streaming in a container
 - [record5](https://github.com/crionuke/chunks/blob/main/record5) - skills and subagents in claudecode 
+- [record6](https://github.com/crionuke/chunks/blob/main/record6) - telegram payments in Apache Camel 
